@@ -3,11 +3,12 @@
 #### Pankova Zlata 
 ##### applying for product analysts positions
 - HSE Business-Informatics
+
 - Hard skills:
-  Python (Pandas, Matplotlib, Seaborn)
-  SQL (MySQL,  PostgreSQL, YQL, Clickhouse)
-  Tableau, Yandex DataLens
-  Figma
+  1. Python (Pandas, Matplotlib, Seaborn)
+  2. SQL (MySQL,  PostgreSQL, YQL, Clickhouse)
+  3. Tableau, Yandex DataLens
+  4. Figma
 - Case_championships & Hackathons:
   Changellenge Cup IT 2024y (1 place in final)
   Barter_X_Change & Changellenge 2024y (final)
