@@ -1,7 +1,7 @@
 # zpankova.github.io
 
 #### Pankova Zlata 
-##### applying for product analysts positions
+##### applying for product analyst positions
 - HSE Business-Informatics
 
 - *Hard skills*:  
