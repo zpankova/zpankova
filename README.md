@@ -3,9 +3,9 @@
 - HSE Business-Informatics
 
 - *Hard skills*:  
-  . Python (Pandas, Matplotlib, Seaborn)  
+  . Python (Pandas, Matplotlib, Seaborn), PySpark  
   . SQL (MySQL,  PostgreSQL, YQL, Clickhouse)  
-  . Tableau, Yandex DataLens  
+  . Tableau, Yandex DataLens
   . Figma
   
 - *Case_championships & Hackathons*:  
