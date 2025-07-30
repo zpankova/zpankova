@@ -1,15 +1,20 @@
 ### Pankova Zlata 
 #### applying for product analyst positions
-- HSE Business-Informatics
-
+- HSE Business-Informatics  
+    
+  Relevant cources:  
+  Machine Learning, Algorithms and Data Structures,  
+  Probability Theory and Mathematical Statistics,  
+  Data Bases & SQL, Python, Mathematical Analysis,  
+  Linear Algebra, Discrete Mathematics
 - *Hard skills*:  
   . Python (Pandas, Matplotlib, Seaborn, Numpy)  
   . PySpark, Spark SQL  
   . SQL (MySQL,  PostgreSQL, YQL)  
   . HDFS, Hive, ClickHouse  
   . Superset, Redash, Yandex DataLens  
-  . Probability theory and mathematical statistics  
-  . A/B tests design  
+  . Probability Theory and Mathematical Statistics  
+  . A/B Tests Design  
 
 - *Case_championships & Hackathons*:  
   . Changellenge Cup IT 2024y (1 place in final)  
