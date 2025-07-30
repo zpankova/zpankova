@@ -3,13 +3,13 @@
 - HSE Business-Informatics
 
 - *Hard skills*:  
-  . Python (Pandas, Matplotlib, Seaborn, Numpy)
-  . PySpark, Spark SQL
-  . SQL (MySQL,  PostgreSQL, YQL)
-  . HDFS, Hive, ClickHouse
-  . Superset, Redash, Yandex DataLens
-  . Probability theory and mathematical statistics
-  . A/B tests design
+  . Python (Pandas, Matplotlib, Seaborn, Numpy)  
+  . PySpark, Spark SQL  
+  . SQL (MySQL,  PostgreSQL, YQL)  
+  . HDFS, Hive, ClickHouse  
+  . Superset, Redash, Yandex DataLens  
+  . Probability theory and mathematical statistics  
+  . A/B tests design  
 
 - *Case_championships & Hackathons*:  
   . Changellenge Cup IT 2024y (1 place in final)  
