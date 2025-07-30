@@ -29,6 +29,6 @@
   
 - *Activities*:  
   . Yandex Liceum "Big Data" 2024y  
-  . Academic Assistant on a microeconomics course at the HSE  
+  . Academic Assistant on a microeconomics and menegment courses at the HSE  
   . Mentor at Case_championships for school students  
   . CAE 2024y (English level C1)  
