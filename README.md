@@ -2,7 +2,7 @@
 #### applying for product analyst positions
 - HSE Business-Informatics  
     
-  Relevant cources:  
+  *Relevant cources*:  
   Machine Learning, Algorithms and Data Structures,  
   Probability Theory and Mathematical Statistics,  
   Data Bases & SQL, Python, Mathematical Analysis,  
