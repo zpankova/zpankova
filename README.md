@@ -1,5 +1,9 @@
 ### Pankova Zlata 
 #### applying for product analyst positions
+- *Work experience*: 
+  Junior Product Analyst  
+  VK, RuStore | Feb 2025 – Present
+  
 - HSE Business-Informatics  
     
   *Relevant cources*:  
@@ -7,10 +11,6 @@
   Probability Theory and Mathematical Statistics,  
   Data Bases & SQL, Python, Mathematical Analysis,  
   Linear Algebra, Discrete Mathematics
-  
-- *Work experience*: 
-  Junior Product Analyst  
-  VK, RuStore | Feb 2025 – Present 
     
 - *Hard skills*:  
   . Python (Pandas, Matplotlib, Seaborn, Numpy)  
